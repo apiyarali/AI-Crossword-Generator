@@ -1,6 +1,6 @@
 # AI Crossword Generator
 
-## Example Output
+### Example Output
 ```
 ██████████████
 ███████M████R█
@@ -31,19 +31,6 @@ Where:
 - `data/structure1.txt` defines the crossword structure.
 - `data/words1.txt` contains the word list.
 - `output.png` (optional) saves the generated crossword as an image.
-
-## Example Output
-```
-██████████████
-███████M████R█
-█INTELLIGENCE█
-█N█████N████S█
-█F██LOGIC███O█
-█E█████M████L█
-█R███SEARCH█V█
-███████X████E█
-██████████████
-```
 
 ## Implementation Details
 The program follows a structured approach to solve the crossword puzzle:
