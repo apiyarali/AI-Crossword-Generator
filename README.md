@@ -1,5 +1,18 @@
 # AI Crossword Generator
 
+## Example Output
+```
+██████████████
+███████M████R█
+█INTELLIGENCE█
+█N█████N████S█
+█F██LOGIC███O█
+█E█████M████L█
+█R███SEARCH█V█
+███████X████E█
+██████████████
+```
+
 ## Overview
 This project is an AI-driven crossword puzzle generator that uses constraint satisfaction techniques to create valid crossword solutions based on a given puzzle structure and a word list.
 
